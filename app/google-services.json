@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44780536552",
+    "project_id": "chatapp-37b7c",
+    "storage_bucket": "chatapp-37b7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44780536552:android:8af7f4c2f1d5cfb79d3f5d",
+        "android_client_info": {
+          "package_name": "com.squalec.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44780536552-i6lu8pormpkgb37cs5o69obvjh33v4ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKwLTSOc-OxizGtSm7TBgcoeRtDghFfIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44780536552-i6lu8pormpkgb37cs5o69obvjh33v4ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
